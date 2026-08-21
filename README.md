@@ -1,5 +1,5 @@
-# kernel_modules (linspector applet)
-A python equivalent of lsmod and modinfo commands on Linux, but in GUI format and organised in categories.
+# kernel_modules
+### The standalone Linux Kernel Modules Inspector, a python equivalent of the lsmod and modinfo commands | Linspector Suite ecosystem applet
 
 Hello, world!
 
