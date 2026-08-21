@@ -1,4 +1,4 @@
-# linux-lsmod-gui.py
+# kernel_modules (linspector applet)
 A python equivalent of lsmod and modinfo commands on Linux, but in GUI format and organised in categories.
 
 Hello, world!
