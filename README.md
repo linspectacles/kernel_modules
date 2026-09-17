@@ -1,7 +1,7 @@
 # kernel_modules (legacy)
 OBSOLETE PROGRAM. NEW VERSION: <a href="https://github.com/linspectacles/kernel_modules">https://github.com/linspectacles/kernel_modules</a>
 
-Linux Kernel Modules Inspector, a python equivalent of the lsmod and modinfo commands | Standalone applet for the Linspector Suite ecosystem.
+Linux Kernel Modules Inspector, a python equivalent of the lsmod and modinfo commands
 
 Hello, world!
 
