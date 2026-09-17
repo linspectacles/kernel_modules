@@ -1,5 +1,5 @@
 # kernel_modules (legacy)
-ACTIVE PROGRAM: <a href="https://github.com/linspectacles/kernel_modules">https://github.com/linspectacles/kernel_modules</a>
+OBSOLETE PROGRAM. NEW VERSION: <a href="https://github.com/linspectacles/kernel_modules">https://github.com/linspectacles/kernel_modules</a>
 
 Linux Kernel Modules Inspector, a python equivalent of the lsmod and modinfo commands | Standalone applet for the Linspector Suite ecosystem.
 
@@ -35,10 +35,11 @@ The files in the "Main" branch are the latest and greatest. The files in the "Ar
 <hr>
 <p>I thought this was a fun little project so I decided to share it in case you find it fun/useful too. You can help me make it better, but I do not plan to spend much time on this project unless it really does take off. I have no clue about python (yet?). I am also new in GitHub so please be kind to me :-P</p>
 
-# linux-lsmod-gui.py (archive)
+# change log (legacy)
 Archived versions of the linux-lsmod-gui.py (https://github.com/brunonlinespace/linux-lsmod-gui.py)
 
 <strong>Active version: Check "Main" branch. Change log:</strong>
+- Version 11 (tested, OK) - Last Google Gemini version used as input for ChatGPT.
 - Version 10 (tested, OK) - Added GPL license. Generated on Google Gemini.
 - Version 9 (tested, OK) - Added persistence to light/dark theme preference. Generated on Google Gemini.
 - Version 8 (tested, OK) - Changed the sorting label from "functional themes" to "categories" to improve clarity. Generated on Google Gemini.
