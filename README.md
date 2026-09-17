@@ -32,9 +32,9 @@ The files in the "Main" branch are the latest and greatest. The files in the "Ar
 <p>I thought this was a fun little project so I decided to share it in case you find it fun/useful too. You can help me make it better, but I do not plan to spend much time on this project unless it really does take off. I have no clue about python (yet?). I am also new in GitHub so please be kind to me :-P</p>
 
 # change log (legacy)
-Archived versions of the linux-lsmod-gui.py (https://github.com/brunonlinespace/linux-lsmod-gui.py)
+Active version of the kernel_modules under [https://github.com/linspectacles/kernel_modules]
 
-<strong>Active version: Check "Main" branch. Change log:</strong>
+<strong>Active version: Check "Main" branch. Legacy version change log:</strong>
 - Version 11 (tested, OK) - Last Google Gemini version used as input for ChatGPT.
 - Version 10 (tested, OK) - Added GPL license. Generated on Google Gemini.
 - Version 9 (tested, OK) - Added persistence to light/dark theme preference. Generated on Google Gemini.
