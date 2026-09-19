@@ -1,4 +1,4 @@
-# kernel_modules
+# LinSpectacles | Kernel Modules
 Linux Kernel Modules Inspector, a python equivalent of the lsmod and modinfo commands | Standalone applet for the Linspector Suite ecosystem.
 
 Hello, world!
